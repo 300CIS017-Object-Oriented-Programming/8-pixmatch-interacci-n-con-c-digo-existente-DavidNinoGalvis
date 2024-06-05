@@ -2,6 +2,10 @@
 # Ejercicio de migración parte 1
 ## Familiarizarse y darle mantenimiento a código existente
 
+### Diagrama Del proyecto
+![diagrama](docs/diagrama.svg)
+
+
 **Objetivo:** Comprender y mantener un código legado, experimentando la importancia de usar las mejores prácticas en programación para facilitar futuras mejoras y refactorizaciones.
 >  **IMPORTANTE**: El conjunto de entregables que produce este ejercicio aportará al 10% del curso que corresponde a la nota del documento escrito teniendo en cuenta los porcentajes de evaluación disponibles al final de este documento en la sección **Criterios de evaluación**
 

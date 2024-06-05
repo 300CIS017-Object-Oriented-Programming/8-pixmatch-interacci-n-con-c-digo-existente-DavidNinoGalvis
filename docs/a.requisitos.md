@@ -10,5 +10,5 @@
   - Medio: cada 6 segundos.
   - Difícil: cada 5 segundos.
 
-
+![diagrama](diagrama.svg)
 > Agrega el resto de requisitos siguiendo una estructura similar a la del ejemplo
