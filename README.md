@@ -1,5 +1,10 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Jf_QPL4A)
 # Ejercicio de migración parte 1
 ## Familiarizarse y darle mantenimiento a código existente
+
+### Diagrama Del proyecto
+![diagrama](docs/diagrama.svg)
+
 
 **Objetivo:** Comprender y mantener un código legado, experimentando la importancia de usar las mejores prácticas en programación para facilitar futuras mejoras y refactorizaciones.
 >  **IMPORTANTE**: El conjunto de entregables que produce este ejercicio aportará al 10% del curso que corresponde a la nota del documento escrito teniendo en cuenta los porcentajes de evaluación disponibles al final de este documento en la sección **Criterios de evaluación**
